@@ -12,7 +12,8 @@
     background: #D8D8D8;
 }
 
-/*  Step-1 You need to get all of these elements to line up side by side. What display property would do this for you? */
+/*  Step-1 You need to get all of these elements to line up side by side. What display property would do this for you? 
+Inline-block? but then you can't float? this already matched the solution and jpg*/
 
 .menu {
     width: 100px;
